@@ -1,0 +1,14 @@
+2025/04/22-22:47:33.002 94b2 Reusing MANIFEST /Users/zhengxiang/Documents/GitHub/wppconnect/tokens/Gdsession/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/22-22:47:33.002 94b2 Recovering log #530
+2025/04/22-22:47:33.008 94b2 Reusing old log /Users/zhengxiang/Documents/GitHub/wppconnect/tokens/Gdsession/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000530.log 
+2025/04/22-22:47:33.008 94b2 Delete type=2 #528
+2025/04/22-22:47:33.992 94b2 Level-0 table #535: started
+2025/04/22-22:47:34.000 94b2 Level-0 table #535: 305752 bytes OK
+2025/04/22-22:47:34.003 94b2 Delete type=0 #530
+2025/04/22-22:47:34.003 94b2 Manual compaction at level-0 from '\x00\xa4\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xa5\x00\x00\x00' @ 0 : 0; will stop at '\x00\xa4\x00\x00\x05' @ 1032276 : 1
+2025/04/22-22:47:34.003 94b2 Compacting 1@0 + 1@1 files
+2025/04/22-22:47:34.035 94b2 Generated table #536@0: 55562 keys, 1123301 bytes
+2025/04/22-22:47:34.035 94b2 Compacted 1@0 + 1@1 files => 1123301 bytes
+2025/04/22-22:47:34.036 94b2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/22-22:47:34.036 94b2 Delete type=2 #535
+2025/04/22-22:47:34.036 94b2 Manual compaction at level-0 from '\x00\xa4\x00\x00\x05' @ 1032276 : 1 .. '\x00\xa5\x00\x00\x00' @ 0 : 0; will stop at (end)

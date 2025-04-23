@@ -1,0 +1,21 @@
+2025/04/22-11:31:12.913 2fd05 Reusing MANIFEST /Users/zhengxiang/Documents/GitHub/wppconnect/tokens/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/22-11:31:12.914 2fd05 Recovering log #1471
+2025/04/22-11:31:12.916 2fd05 Reusing old log /Users/zhengxiang/Documents/GitHub/wppconnect/tokens/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001471.log 
+2025/04/22-11:31:13.940 2fd05 Level-0 table #1480: started
+2025/04/22-11:31:13.945 2fd05 Level-0 table #1480: 126360 bytes OK
+2025/04/22-11:31:13.948 2fd05 Delete type=0 #1471
+2025/04/22-11:31:13.949 2fd05 Manual compaction at level-0 from '\x00\x95\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x96\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/22-11:31:14.838 2fd07 Compacting 1@1 + 5@2 files
+2025/04/22-11:31:14.879 2fd07 Generated table #1481@1: 51436 keys, 2209906 bytes
+2025/04/22-11:31:14.904 2fd07 Generated table #1482@1: 16969 keys, 2173980 bytes
+2025/04/22-11:31:14.926 2fd07 Generated table #1483@1: 2928 keys, 2151673 bytes
+2025/04/22-11:31:14.960 2fd07 Generated table #1484@1: 26936 keys, 2233978 bytes
+2025/04/22-11:31:14.986 2fd07 Generated table #1485@1: 46324 keys, 1536680 bytes
+2025/04/22-11:31:14.986 2fd07 Compacted 1@1 + 5@2 files => 10306217 bytes
+2025/04/22-11:31:14.987 2fd07 compacted to: files[ 0 0 5 0 0 0 0 ]
+2025/04/22-11:31:14.987 2fd07 Delete type=2 #1480
+2025/04/22-11:31:14.987 2fd07 Delete type=2 #1473
+2025/04/22-11:31:14.987 2fd07 Delete type=2 #1476
+2025/04/22-11:31:14.987 2fd07 Delete type=2 #1477
+2025/04/22-11:31:14.987 2fd07 Delete type=2 #1475
+2025/04/22-11:31:14.987 2fd07 Delete type=2 #1474

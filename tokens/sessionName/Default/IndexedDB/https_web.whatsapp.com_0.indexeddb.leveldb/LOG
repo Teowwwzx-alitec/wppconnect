@@ -1,0 +1,74 @@
+2025/04/22-11:57:37.123 395ba Reusing MANIFEST /Users/zhengxiang/Documents/GitHub/wppconnect/tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/22-11:57:37.123 395ba Recovering log #541
+2025/04/22-11:57:37.136 395ba Reusing old log /Users/zhengxiang/Documents/GitHub/wppconnect/tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000541.log 
+2025/04/22-11:57:38.151 395ba Level-0 table #560: started
+2025/04/22-11:57:38.170 395ba Level-0 table #560: 660814 bytes OK
+2025/04/22-11:57:38.173 395ba Delete type=0 #541
+2025/04/22-11:57:38.174 395ba Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1b\x00\x00\x05' @ 2248530 : 1
+2025/04/22-11:57:38.174 395ba Compacting 1@0 + 0@1 files
+2025/04/22-11:57:38.186 395ba Generated table #561@0: 14777 keys, 260069 bytes
+2025/04/22-11:57:38.194 395ba Generated table #562@0: 2508 keys, 52295 bytes
+2025/04/22-11:57:38.194 395ba Compacted 1@0 + 0@1 files => 312364 bytes
+2025/04/22-11:57:38.199 395ba compacted to: files[ 0 2 13 0 0 0 0 ]
+2025/04/22-11:57:38.200 395ba Delete type=2 #560
+2025/04/22-11:57:38.200 395ba Manual compaction at level-0 from '\x00\x1b\x00\x00\x05' @ 2248530 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/22-11:57:39.035 395cc Compacting 1@1 + 10@2 files
+2025/04/22-11:57:39.072 395cc Generated table #563@1: 43594 keys, 2239036 bytes
+2025/04/22-11:57:39.109 395cc Generated table #564@1: 46012 keys, 2209662 bytes
+2025/04/22-11:57:39.124 395cc Generated table #565@1: 3168 keys, 2164287 bytes
+2025/04/22-11:57:39.140 395cc Generated table #566@1: 2033 keys, 2145923 bytes
+2025/04/22-11:57:39.156 395cc Generated table #567@1: 2483 keys, 2151563 bytes
+2025/04/22-11:57:39.173 395cc Generated table #568@1: 3960 keys, 2158490 bytes
+2025/04/22-11:57:39.209 395cc Generated table #569@1: 31863 keys, 2263232 bytes
+2025/04/22-11:57:39.238 395cc Generated table #570@1: 30152 keys, 2237010 bytes
+2025/04/22-11:57:39.257 395cc Generated table #571@1: 15736 keys, 2175593 bytes
+2025/04/22-11:57:39.288 395cc Generated table #572@1: 75748 keys, 2220960 bytes
+2025/04/22-11:57:39.291 395cc Generated table #573@1: 3741 keys, 82175 bytes
+2025/04/22-11:57:39.291 395cc Compacted 1@1 + 10@2 files => 22047931 bytes
+2025/04/22-11:57:39.292 395cc compacted to: files[ 0 1 14 0 0 0 0 ]
+2025/04/22-11:57:39.292 395cc Delete type=2 #548
+2025/04/22-11:57:39.292 395cc Delete type=2 #549
+2025/04/22-11:57:39.292 395cc Delete type=2 #561
+2025/04/22-11:57:39.292 395cc Delete type=2 #550
+2025/04/22-11:57:39.292 395cc Delete type=2 #551
+2025/04/22-11:57:39.292 395cc Delete type=2 #547
+2025/04/22-11:57:39.292 395cc Delete type=2 #553
+2025/04/22-11:57:39.292 395cc Delete type=2 #552
+2025/04/22-11:57:39.292 395cc Delete type=2 #556
+2025/04/22-11:57:39.292 395cc Delete type=2 #555
+2025/04/22-11:57:39.292 395cc Delete type=2 #554
+2025/04/22-11:57:44.482 395cc Level-0 table #575: started
+2025/04/22-11:57:44.489 395cc Level-0 table #575: 262851 bytes OK
+2025/04/22-11:57:44.492 395cc Delete type=0 #559
+2025/04/22-11:57:44.492 395bc Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1c\x00\x00\x05' @ 2258567 : 1
+2025/04/22-11:57:44.492 395bc Compacting 1@0 + 1@1 files
+2025/04/22-11:57:44.496 395bc Generated table #576@0: 5802 keys, 122956 bytes
+2025/04/22-11:57:44.498 395bc Generated table #577@0: 2521 keys, 55770 bytes
+2025/04/22-11:57:44.498 395bc Compacted 1@0 + 1@1 files => 178726 bytes
+2025/04/22-11:57:44.500 395bc compacted to: files[ 0 2 14 0 0 0 0 ]
+2025/04/22-11:57:44.500 395bc Delete type=2 #575
+2025/04/22-11:57:44.500 395bc Manual compaction at level-0 from '\x00\x1c\x00\x00\x05' @ 2258567 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/22-11:57:45.130 395bc Compacting 1@1 + 9@2 files
+2025/04/22-11:57:45.159 395bc Generated table #578@1: 43800 keys, 2238652 bytes
+2025/04/22-11:57:45.194 395bc Generated table #579@1: 46799 keys, 2211803 bytes
+2025/04/22-11:57:45.208 395bc Generated table #580@1: 3177 keys, 2161432 bytes
+2025/04/22-11:57:45.218 395bc Generated table #581@1: 2043 keys, 2143749 bytes
+2025/04/22-11:57:45.230 395bc Generated table #582@1: 2447 keys, 2152692 bytes
+2025/04/22-11:57:45.242 395bc Generated table #583@1: 3609 keys, 2157650 bytes
+2025/04/22-11:57:45.272 395bc Generated table #584@1: 31945 keys, 2262613 bytes
+2025/04/22-11:57:45.298 395bc Generated table #585@1: 29440 keys, 2237115 bytes
+2025/04/22-11:57:45.316 395bc Generated table #586@1: 16687 keys, 2176622 bytes
+2025/04/22-11:57:45.317 395bc Generated table #587@1: 82 keys, 26000 bytes
+2025/04/22-11:57:45.317 395bc Compacted 1@1 + 9@2 files => 19768328 bytes
+2025/04/22-11:57:45.319 395bc compacted to: files[ 0 1 15 0 0 0 0 ]
+2025/04/22-11:57:45.319 395bc Delete type=2 #571
+2025/04/22-11:57:45.319 395bc Delete type=2 #565
+2025/04/22-11:57:45.319 395bc Delete type=2 #564
+2025/04/22-11:57:45.319 395bc Delete type=2 #570
+2025/04/22-11:57:45.319 395bc Delete type=2 #566
+2025/04/22-11:57:45.319 395bc Delete type=2 #567
+2025/04/22-11:57:45.319 395bc Delete type=2 #563
+2025/04/22-11:57:45.319 395bc Delete type=2 #576
+2025/04/22-11:57:45.319 395bc Delete type=2 #562
+2025/04/22-11:57:45.319 395bc Delete type=2 #569
+2025/04/22-11:57:45.319 395bc Delete type=2 #568

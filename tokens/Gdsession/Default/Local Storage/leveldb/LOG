@@ -1,0 +1,6 @@
+2025/04/22-22:47:32.394 9501 Reusing MANIFEST /Users/zhengxiang/Documents/GitHub/wppconnect/tokens/Gdsession/Default/Local Storage/leveldb/MANIFEST-000001
+2025/04/22-22:47:32.396 9501 Recovering log #4
+2025/04/22-22:47:32.396 9501 Reusing old log /Users/zhengxiang/Documents/GitHub/wppconnect/tokens/Gdsession/Default/Local Storage/leveldb/000004.log 
+2025/04/22-22:48:32.414 9503 Level-0 table #8: started
+2025/04/22-22:48:32.418 9503 Level-0 table #8: 14094 bytes OK
+2025/04/22-22:48:32.423 9503 Delete type=0 #4
